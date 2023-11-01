@@ -1,0 +1,4 @@
+ItemName_FR = {
+	ItemName_Base.Rusty = "'Rusty'",
+	ItemName_Base.TheBong = "Le Bang Falafel",
+}
